@@ -34,7 +34,7 @@ I'm a **Video Editor and Graphic Designer** who is now leveling up into **web de
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [alaba-marius.github.io](https://github.com/alaba-marius/alaba-marius.github.io) | My personal website, hosted on GitHub Pages | CSS |
+| [PrivyPDF](https://github.com/alaba-marius/PrivyPDF) | Private PDF editor that runs entirely in your browser. | HTML, CSS, JavaScript |
 | [airline-booking-system](https://github.com/alaba-marius/airline-booking-system) | A multi-page airline booking website | HTML, CSS |
 
 ---
